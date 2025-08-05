@@ -1,0 +1,201 @@
+customer_id,customer_name,age,gender,income,loan_amount,loan_purpose,loan_term_months,branch,interest_rate,payment_status,application_date
+1001,Customer_1,59,Female,95726,5851,Education,36,Downtown,6.9,On Time,2021-01-01
+1002,Customer_2,49,Male,40492,23071,Home,48,Suburban,11.03,On Time,2021-01-02
+1003,Customer_3,35,Male,145668,11833,Education,48,Uptown,8.79,On Time,2021-01-03
+1004,Customer_4,63,Male,131279,16938,Education,12,Midtown,6.15,On Time,2021-01-04
+1005,Customer_5,28,Female,36102,40195,Education,36,Midtown,9.93,On Time,2021-01-05
+1006,Customer_6,41,Female,80336,31144,Personal,36,Suburban,8.25,On Time,2021-01-06
+1007,Customer_7,59,Male,148015,9000,Education,36,Downtown,8.31,On Time,2021-01-07
+1008,Customer_8,39,Female,115314,10052,Home,60,Uptown,7.83,On Time,2021-01-08
+1009,Customer_9,43,Female,56641,40506,Education,24,Downtown,7.97,On Time,2021-01-09
+1010,Customer_10,31,Female,64584,33074,Education,60,Downtown,10.39,Late,2021-01-10
+1011,Customer_11,31,Female,62745,43155,Home,24,Downtown,4.43,On Time,2021-01-11
+1012,Customer_12,44,Female,53093,45770,Education,36,Downtown,6.51,On Time,2021-01-12
+1013,Customer_13,56,Male,96105,37320,Home,36,Midtown,4.18,On Time,2021-01-13
+1014,Customer_14,60,Female,133746,43304,Education,60,Midtown,10.28,Late,2021-01-14
+1015,Customer_15,44,Male,130199,8913,Home,60,Downtown,5.95,Late,2021-01-15
+1016,Customer_16,23,Male,81885,22450,Education,24,Uptown,11.58,On Time,2021-01-16
+1017,Customer_17,42,Female,66631,29107,Education,48,Suburban,8.24,On Time,2021-01-17
+1018,Customer_18,22,Male,141217,25764,Personal,24,Uptown,10.71,Defaulted,2021-01-18
+1019,Customer_19,44,Male,102991,48404,Personal,60,Uptown,12.31,On Time,2021-01-19
+1020,Customer_20,64,Male,34014,25491,Education,60,Uptown,11.06,On Time,2021-01-20
+1021,Customer_21,50,Female,41093,43494,Education,12,Downtown,11.3,On Time,2021-01-21
+1022,Customer_22,58,Female,48070,8373,Auto,60,Midtown,7.17,On Time,2021-01-22
+1023,Customer_23,22,Male,65777,17161,Home,12,Uptown,8.47,Defaulted,2021-01-23
+1024,Customer_24,41,Female,86958,36996,Auto,48,Downtown,5.78,Late,2021-01-24
+1025,Customer_25,53,Female,112074,32122,Personal,24,Uptown,5.27,On Time,2021-01-25
+1026,Customer_26,32,Female,40729,39850,Personal,24,Uptown,8.05,On Time,2021-01-26
+1027,Customer_27,42,Female,129713,32350,Personal,12,Downtown,8.86,Defaulted,2021-01-27
+1028,Customer_28,64,Male,75017,32472,Personal,24,Midtown,6.55,Late,2021-01-28
+1029,Customer_29,45,Male,96320,33761,Education,60,Midtown,8.62,On Time,2021-01-29
+1030,Customer_30,47,Female,57751,30351,Personal,36,Suburban,11.49,Defaulted,2021-01-30
+1031,Customer_31,62,Female,136400,28132,Education,12,Downtown,8.51,Defaulted,2021-01-31
+1032,Customer_32,48,Male,135864,20305,Education,24,Suburban,9.99,Late,2021-02-01
+1033,Customer_33,36,Male,108069,14817,Personal,12,Suburban,10.75,On Time,2021-02-02
+1034,Customer_34,35,Female,135647,16261,Personal,12,Suburban,12.4,On Time,2021-02-03
+1035,Customer_35,64,Male,135510,5417,Home,36,Midtown,8.93,Late,2021-02-04
+1036,Customer_36,23,Female,84748,46576,Auto,60,Downtown,10.76,On Time,2021-02-05
+1037,Customer_37,57,Female,35801,25358,Personal,12,Suburban,12.16,Late,2021-02-06
+1038,Customer_38,27,Male,49190,8267,Home,24,Downtown,12.0,On Time,2021-02-07
+1039,Customer_39,41,Male,79689,22209,Home,48,Downtown,4.77,On Time,2021-02-08
+1040,Customer_40,29,Female,134290,29052,Auto,12,Midtown,7.16,On Time,2021-02-09
+1041,Customer_41,59,Female,80993,43513,Education,12,Suburban,6.42,On Time,2021-02-10
+1042,Customer_42,38,Male,59592,31092,Personal,36,Suburban,4.28,Defaulted,2021-02-11
+1043,Customer_43,24,Female,40647,16338,Auto,60,Downtown,9.2,Late,2021-02-12
+1044,Customer_44,45,Male,38716,5412,Personal,48,Uptown,10.12,Late,2021-02-13
+1045,Customer_45,34,Female,118891,12543,Home,24,Midtown,11.13,On Time,2021-02-14
+1046,Customer_46,29,Male,117545,45355,Home,48,Midtown,4.6,On Time,2021-02-15
+1047,Customer_47,46,Male,147638,38496,Education,24,Midtown,11.39,On Time,2021-02-16
+1048,Customer_48,22,Male,119912,28548,Home,60,Midtown,9.29,On Time,2021-02-17
+1049,Customer_49,40,Female,140627,32384,Home,24,Suburban,9.84,On Time,2021-02-18
+1050,Customer_50,48,Female,100316,49425,Auto,36,Suburban,11.7,On Time,2021-02-19
+1051,Customer_51,27,Male,32368,43756,Personal,36,Uptown,9.12,On Time,2021-02-20
+1052,Customer_52,64,Female,107575,23888,Personal,36,Midtown,6.52,On Time,2021-02-21
+1053,Customer_53,28,Male,36655,40735,Auto,36,Midtown,10.93,Defaulted,2021-02-22
+1054,Customer_54,55,Male,136477,22506,Education,48,Downtown,6.77,Late,2021-02-23
+1055,Customer_55,34,Female,100031,25463,Personal,60,Suburban,3.81,On Time,2021-02-24
+1056,Customer_56,37,Female,106429,22955,Home,24,Midtown,10.98,On Time,2021-02-25
+1057,Customer_57,56,Male,121083,42841,Personal,24,Uptown,6.61,Late,2021-02-26
+1058,Customer_58,60,Female,117922,10104,Home,36,Uptown,10.46,On Time,2021-02-27
+1059,Customer_59,24,Female,85766,39911,Education,36,Suburban,6.76,Late,2021-02-28
+1060,Customer_60,22,Male,43403,28190,Auto,12,Uptown,11.25,Late,2021-03-01
+1061,Customer_61,26,Male,62097,12357,Personal,60,Uptown,5.48,On Time,2021-03-02
+1062,Customer_62,62,Female,108657,37479,Auto,48,Suburban,12.27,On Time,2021-03-03
+1063,Customer_63,24,Male,40966,49811,Personal,24,Midtown,10.52,On Time,2021-03-04
+1064,Customer_64,49,Male,129157,41208,Home,12,Midtown,4.53,On Time,2021-03-05
+1065,Customer_65,38,Female,148834,25150,Auto,12,Uptown,8.59,On Time,2021-03-06
+1066,Customer_66,46,Male,123848,10644,Personal,24,Uptown,12.37,Late,2021-03-07
+1067,Customer_67,64,Male,82921,48286,Home,48,Midtown,7.74,On Time,2021-03-08
+1068,Customer_68,54,Female,79726,7914,Auto,12,Suburban,5.14,On Time,2021-03-09
+1069,Customer_69,30,Female,80300,26352,Auto,12,Uptown,7.86,Defaulted,2021-03-10
+1070,Customer_70,56,Male,52677,49912,Personal,60,Downtown,8.11,Late,2021-03-11
+1071,Customer_71,34,Male,85609,19397,Personal,48,Suburban,10.18,On Time,2021-03-12
+1072,Customer_72,51,Female,126825,46555,Personal,12,Uptown,9.79,On Time,2021-03-13
+1073,Customer_73,35,Female,86661,5728,Home,48,Uptown,7.12,On Time,2021-03-14
+1074,Customer_74,28,Female,61024,5698,Personal,24,Downtown,5.46,On Time,2021-03-15
+1075,Customer_75,34,Female,138211,44954,Auto,36,Downtown,9.31,On Time,2021-03-16
+1076,Customer_76,43,Male,100313,18923,Auto,12,Midtown,7.3,On Time,2021-03-17
+1077,Customer_77,60,Female,83006,21779,Personal,60,Suburban,4.69,Defaulted,2021-03-18
+1078,Customer_78,41,Female,125285,12400,Personal,24,Suburban,11.61,On Time,2021-03-19
+1079,Customer_79,36,Male,45338,29466,Education,48,Midtown,9.72,Late,2021-03-20
+1080,Customer_80,38,Female,98027,41939,Auto,24,Suburban,9.65,Defaulted,2021-03-21
+1081,Customer_81,44,Male,122772,9360,Home,12,Suburban,10.9,On Time,2021-03-22
+1082,Customer_82,46,Female,143632,40270,Education,48,Suburban,8.27,Late,2021-03-23
+1083,Customer_83,45,Female,110135,22101,Personal,36,Suburban,10.84,On Time,2021-03-24
+1084,Customer_84,61,Female,49508,37307,Personal,24,Suburban,7.98,Defaulted,2021-03-25
+1085,Customer_85,49,Male,33051,10486,Auto,12,Downtown,4.1,On Time,2021-03-26
+1086,Customer_86,35,Male,78747,13335,Personal,60,Suburban,7.15,On Time,2021-03-27
+1087,Customer_87,21,Female,144692,26364,Home,48,Downtown,7.98,On Time,2021-03-28
+1088,Customer_88,45,Male,117142,42259,Auto,24,Suburban,9.98,Late,2021-03-29
+1089,Customer_89,27,Male,117235,28576,Personal,24,Midtown,4.46,Late,2021-03-30
+1090,Customer_90,29,Male,84021,36667,Auto,36,Uptown,4.76,On Time,2021-03-31
+1091,Customer_91,44,Male,96412,16130,Personal,36,Downtown,5.87,Late,2021-04-01
+1092,Customer_92,21,Male,88335,26972,Personal,60,Suburban,5.9,On Time,2021-04-02
+1093,Customer_93,64,Male,86179,45419,Personal,60,Midtown,10.09,On Time,2021-04-03
+1094,Customer_94,28,Female,62093,6167,Home,12,Uptown,5.76,On Time,2021-04-04
+1095,Customer_95,44,Female,99678,32192,Home,12,Downtown,9.2,On Time,2021-04-05
+1096,Customer_96,31,Male,110738,6062,Auto,60,Uptown,7.95,On Time,2021-04-06
+1097,Customer_97,37,Female,69734,23540,Personal,60,Midtown,8.66,Defaulted,2021-04-07
+1098,Customer_98,28,Female,102615,29244,Personal,48,Downtown,11.04,On Time,2021-04-08
+1099,Customer_99,55,Female,103523,26545,Home,36,Uptown,7.14,On Time,2021-04-09
+1100,Customer_100,55,Female,135103,26689,Personal,12,Suburban,10.44,On Time,2021-04-10
+1101,Customer_101,53,Male,124476,16174,Home,36,Downtown,7.3,Late,2021-04-11
+1102,Customer_102,25,Female,132769,27925,Personal,36,Uptown,6.68,Defaulted,2021-04-12
+1103,Customer_103,62,Female,47019,42497,Auto,60,Midtown,12.13,On Time,2021-04-13
+1104,Customer_104,59,Male,141721,14348,Personal,48,Midtown,5.16,Late,2021-04-14
+1105,Customer_105,61,Male,113613,28714,Personal,24,Downtown,4.31,On Time,2021-04-15
+1106,Customer_106,48,Female,121794,43102,Education,48,Uptown,10.44,Late,2021-04-16
+1107,Customer_107,27,Female,116672,13924,Home,48,Downtown,4.11,On Time,2021-04-17
+1108,Customer_108,29,Female,103847,42098,Personal,36,Downtown,11.03,Defaulted,2021-04-18
+1109,Customer_109,28,Female,112750,29394,Personal,48,Uptown,7.43,On Time,2021-04-19
+1110,Customer_110,32,Female,109634,11801,Education,12,Uptown,11.74,On Time,2021-04-20
+1111,Customer_111,54,Female,58251,42614,Education,36,Suburban,9.99,Late,2021-04-21
+1112,Customer_112,53,Male,133481,11731,Home,12,Uptown,8.99,On Time,2021-04-22
+1113,Customer_113,43,Female,142566,28625,Education,24,Midtown,12.04,On Time,2021-04-23
+1114,Customer_114,44,Female,55945,22337,Auto,36,Downtown,7.07,On Time,2021-04-24
+1115,Customer_115,57,Male,120852,40307,Education,24,Downtown,12.09,On Time,2021-04-25
+1116,Customer_116,55,Male,62217,12056,Auto,36,Midtown,4.72,On Time,2021-04-26
+1117,Customer_117,64,Male,38308,16516,Home,60,Uptown,7.85,On Time,2021-04-27
+1118,Customer_118,60,Male,35949,49261,Home,48,Midtown,5.93,On Time,2021-04-28
+1119,Customer_119,42,Female,81990,6542,Home,60,Midtown,8.36,On Time,2021-04-29
+1120,Customer_120,47,Female,31150,26677,Home,24,Suburban,4.96,Late,2021-04-30
+1121,Customer_121,55,Female,119480,44081,Home,48,Midtown,11.07,On Time,2021-05-01
+1122,Customer_122,21,Female,130235,32569,Auto,36,Downtown,11.12,On Time,2021-05-02
+1123,Customer_123,55,Female,104740,28322,Auto,48,Midtown,12.1,On Time,2021-05-03
+1124,Customer_124,57,Female,146352,24065,Home,12,Downtown,4.89,On Time,2021-05-04
+1125,Customer_125,34,Male,96617,22924,Education,48,Downtown,9.11,Late,2021-05-05
+1126,Customer_126,23,Female,124841,27556,Personal,12,Downtown,7.77,On Time,2021-05-06
+1127,Customer_127,21,Male,46896,31962,Home,48,Uptown,6.6,On Time,2021-05-07
+1128,Customer_128,25,Male,76175,33295,Education,12,Suburban,6.66,Late,2021-05-08
+1129,Customer_129,46,Female,37805,18807,Personal,24,Downtown,7.22,Late,2021-05-09
+1130,Customer_130,34,Male,35237,47348,Home,60,Downtown,9.84,On Time,2021-05-10
+1131,Customer_131,59,Female,145247,31432,Home,36,Uptown,8.88,Late,2021-05-11
+1132,Customer_132,47,Male,50056,22749,Auto,48,Downtown,7.64,Defaulted,2021-05-12
+1133,Customer_133,29,Female,75543,46459,Personal,60,Midtown,4.18,On Time,2021-05-13
+1134,Customer_134,35,Male,86556,31256,Personal,36,Midtown,4.2,Late,2021-05-14
+1135,Customer_135,35,Female,144548,45262,Education,36,Suburban,3.52,Late,2021-05-15
+1136,Customer_136,46,Female,141488,42080,Auto,12,Downtown,12.21,On Time,2021-05-16
+1137,Customer_137,62,Female,33343,6324,Auto,24,Uptown,3.55,On Time,2021-05-17
+1138,Customer_138,33,Female,43500,30731,Auto,24,Midtown,4.43,On Time,2021-05-18
+1139,Customer_139,52,Female,83222,40909,Auto,60,Uptown,6.33,Late,2021-05-19
+1140,Customer_140,59,Male,59375,28803,Personal,24,Uptown,10.77,Defaulted,2021-05-20
+1141,Customer_141,52,Male,39662,24870,Personal,48,Midtown,12.16,On Time,2021-05-21
+1142,Customer_142,24,Male,46964,39578,Home,24,Uptown,10.61,On Time,2021-05-22
+1143,Customer_143,50,Female,143429,11588,Home,60,Midtown,9.72,On Time,2021-05-23
+1144,Customer_144,57,Male,89638,43069,Auto,24,Uptown,8.19,On Time,2021-05-24
+1145,Customer_145,43,Female,103666,31790,Auto,48,Midtown,4.28,On Time,2021-05-25
+1146,Customer_146,59,Female,115067,30289,Auto,12,Downtown,12.12,On Time,2021-05-26
+1147,Customer_147,35,Male,148937,33178,Home,60,Suburban,10.33,Late,2021-05-27
+1148,Customer_148,63,Male,97215,33710,Education,12,Midtown,9.25,On Time,2021-05-28
+1149,Customer_149,49,Female,99042,20485,Education,12,Midtown,10.33,Late,2021-05-29
+1150,Customer_150,56,Male,43284,49482,Home,12,Suburban,10.02,On Time,2021-05-30
+1151,Customer_151,33,Female,102789,25652,Home,36,Midtown,9.24,On Time,2021-05-31
+1152,Customer_152,52,Female,114664,9748,Home,36,Midtown,12.33,On Time,2021-06-01
+1153,Customer_153,27,Female,123468,26233,Home,12,Uptown,11.63,On Time,2021-06-02
+1154,Customer_154,42,Female,91389,14435,Home,60,Suburban,9.32,Defaulted,2021-06-03
+1155,Customer_155,48,Female,39435,8709,Home,48,Downtown,9.74,On Time,2021-06-04
+1156,Customer_156,22,Male,84340,35355,Auto,48,Midtown,3.96,Late,2021-06-05
+1157,Customer_157,62,Male,74078,18116,Auto,24,Suburban,9.53,On Time,2021-06-06
+1158,Customer_158,26,Female,108832,30470,Auto,60,Uptown,3.9,Late,2021-06-07
+1159,Customer_159,48,Female,81293,47344,Auto,36,Downtown,8.79,On Time,2021-06-08
+1160,Customer_160,48,Male,125981,47918,Home,12,Suburban,12.49,Late,2021-06-09
+1161,Customer_161,64,Male,108781,44298,Education,24,Downtown,8.5,Late,2021-06-10
+1162,Customer_162,64,Female,90403,47956,Personal,48,Downtown,7.76,On Time,2021-06-11
+1163,Customer_163,40,Male,59124,19683,Home,36,Downtown,6.32,On Time,2021-06-12
+1164,Customer_164,50,Female,125435,5504,Personal,36,Midtown,4.58,Late,2021-06-13
+1165,Customer_165,31,Male,73919,38982,Education,12,Midtown,10.08,Defaulted,2021-06-14
+1166,Customer_166,48,Female,138761,39299,Auto,48,Uptown,5.23,On Time,2021-06-15
+1167,Customer_167,45,Male,65247,33016,Education,60,Uptown,4.54,Late,2021-06-16
+1168,Customer_168,59,Female,124758,28960,Home,36,Suburban,7.3,Defaulted,2021-06-17
+1169,Customer_169,53,Male,121747,38591,Auto,12,Uptown,10.66,Late,2021-06-18
+1170,Customer_170,21,Male,92752,22312,Home,60,Downtown,10.21,Defaulted,2021-06-19
+1171,Customer_171,47,Female,86573,42797,Auto,48,Downtown,3.99,Late,2021-06-20
+1172,Customer_172,33,Male,89101,7105,Personal,36,Midtown,7.6,On Time,2021-06-21
+1173,Customer_173,61,Female,132756,41395,Personal,60,Downtown,8.2,On Time,2021-06-22
+1174,Customer_174,23,Male,56646,27700,Personal,60,Suburban,9.3,On Time,2021-06-23
+1175,Customer_175,59,Female,134185,39620,Education,60,Downtown,9.35,Late,2021-06-24
+1176,Customer_176,26,Male,53049,42678,Home,36,Downtown,6.78,Late,2021-06-25
+1177,Customer_177,28,Female,109605,25559,Education,36,Suburban,8.55,On Time,2021-06-26
+1178,Customer_178,47,Male,128116,32509,Personal,24,Uptown,7.83,Late,2021-06-27
+1179,Customer_179,29,Female,127379,32860,Home,48,Uptown,11.46,Late,2021-06-28
+1180,Customer_180,57,Male,98385,16003,Personal,12,Suburban,8.27,On Time,2021-06-29
+1181,Customer_181,53,Female,70158,26732,Education,60,Midtown,7.47,On Time,2021-06-30
+1182,Customer_182,62,Female,95417,30826,Education,24,Downtown,7.14,On Time,2021-07-01
+1183,Customer_183,64,Female,53289,35354,Education,12,Suburban,8.65,On Time,2021-07-02
+1184,Customer_184,44,Male,140226,18843,Personal,24,Downtown,10.74,On Time,2021-07-03
+1185,Customer_185,35,Female,130793,49472,Home,36,Midtown,8.35,On Time,2021-07-04
+1186,Customer_186,52,Male,39823,11190,Home,60,Downtown,9.45,On Time,2021-07-05
+1187,Customer_187,52,Female,90160,22640,Personal,12,Suburban,10.14,On Time,2021-07-06
+1188,Customer_188,44,Male,71975,43413,Home,12,Downtown,8.18,On Time,2021-07-07
+1189,Customer_189,61,Female,39540,47356,Personal,12,Uptown,7.34,On Time,2021-07-08
+1190,Customer_190,32,Male,46364,49597,Home,12,Midtown,11.39,Late,2021-07-09
+1191,Customer_191,59,Male,34611,45821,Auto,12,Midtown,7.26,On Time,2021-07-10
+1192,Customer_192,22,Female,57663,8330,Auto,24,Midtown,7.66,Defaulted,2021-07-11
+1193,Customer_193,23,Male,81991,24087,Education,60,Suburban,12.41,Defaulted,2021-07-12
+1194,Customer_194,57,Male,87679,46430,Auto,36,Midtown,3.5,On Time,2021-07-13
+1195,Customer_195,37,Female,134182,29504,Auto,36,Uptown,5.17,On Time,2021-07-14
+1196,Customer_196,22,Male,60977,12114,Auto,36,Suburban,6.96,On Time,2021-07-15
+1197,Customer_197,22,Male,124704,18323,Personal,36,Uptown,11.89,On Time,2021-07-16
+1198,Customer_198,48,Male,79115,39121,Auto,24,Downtown,4.13,On Time,2021-07-17
+1199,Customer_199,43,Female,121007,15975,Auto,48,Downtown,3.59,On Time,2021-07-18
+1200,Customer_200,57,Male,118223,16023,Education,60,Downtown,3.97,On Time,2021-07-19
