@@ -54,3 +54,23 @@ SELECT payment_status,
        ROUND(SUM(loan_amount) * 100.0 / SUM(SUM(loan_amount)) OVER (), 2) AS loan_percentage
 FROM loan_risk
 GROUP BY payment_status;
+
+-- Risk segmentation based on loan status and amount
+WITH risk_summary AS (
+    SELECT
+        risk_grade,
+        COUNT(*) AS total_loans,
+        SUM(CASE WHEN loan_status = 'Default' THEN 1 ELSE 0 END) AS defaulted_loans,
+        SUM(loan_amount) AS total_exposure
+    FROM loans
+    GROUP BY risk_grade
+)
+SELECT
+    risk_grade,
+    total_loans,
+    defaulted_loans,
+    ROUND(defaulted_loans * 100.0 / total_loans, 2) AS default_rate_pct,
+    total_exposure
+FROM risk_summary
+ORDER BY default_rate_pct DESC;
+
